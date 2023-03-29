@@ -1,0 +1,2 @@
+# echoplugin
+Qt echoplugin demo
